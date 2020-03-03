@@ -24,3 +24,5 @@ yarn-error.log*
 
 
 https://floating-peak-25040.herokuapp.com/ 
+# Local Netlify folder
+.netlify
